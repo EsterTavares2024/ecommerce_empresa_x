@@ -48,3 +48,7 @@ _Melhoria 1_, _Melhoria 2_
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
 Contribuidor principal: https://github.com/EsterTavares2024
+
+## Colocar um link dentro de uma imagem
+
+[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/c/c1/PHP_Logo.png)](https://github.com/EsterTavares2024)
