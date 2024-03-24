@@ -42,3 +42,7 @@ _Melhoria 1_, _Melhoria 2_
 ## Links interessantes
 
 [Google](https://google.com)
+
+## Link como texto
+
+[https://www.horadecodar.com.br](https://www.horadecodar.com.br)
