@@ -46,3 +46,5 @@ _Melhoria 1_, _Melhoria 2_
 ## Link como texto
 
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
+
+Contribuidor principal: https://github.com/EsterTavares2024
