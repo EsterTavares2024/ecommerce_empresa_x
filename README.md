@@ -52,3 +52,11 @@ Contribuidor principal: https://github.com/EsterTavares2024
 ## Colocar um link dentro de uma imagem
 
 [![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/c/c1/PHP_Logo.png)](https://github.com/EsterTavares2024)
+
+## Código da função soma
+
+```Javascript
+function soma(a,b) {
+    return a+b;
+}
+```
