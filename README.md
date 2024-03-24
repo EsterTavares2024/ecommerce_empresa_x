@@ -12,3 +12,10 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 ###### Melhorias dos projetos:
 
 _Melhoria 1_, _Melhoria 2_
+
+### Linguagens do projeto:
+
+* HTML
+* CSS
+* Python
+*Javascript
