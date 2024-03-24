@@ -19,3 +19,9 @@ _Melhoria 1_, _Melhoria 2_
 * CSS
 * Python
 *Javascript
+
+### Funcionalidades a desenvolver
+
+1. Área de membros
+2. Integração com outros pagamentos
+3. Sistema de bônus primeira compra
