@@ -33,4 +33,4 @@ _Melhoria 1_, _Melhoria 2_
 
 #### Imagem Local
 
-![Logo do Python] (imagens/python-logo.png)
+![Logo do Python](imagens/python-logo.png)
