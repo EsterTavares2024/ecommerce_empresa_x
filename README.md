@@ -28,3 +28,9 @@ _Melhoria 1_, _Melhoria 2_
     3. CSS diferente para grupos de clientes
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+### dar 2 tabs para recuar e criar os sub itens
+
+#### Imagem Local
+
+![Logo do Python] (imagens/python-logo.png)
